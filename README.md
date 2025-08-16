@@ -1,4 +1,4 @@
-🌐 IoT Dashboard with AWS Integration
+# IoT Dashboard with AWS Integration🌐 
 📌 Overview
 
 This project is a real-time IoT monitoring dashboard integrated with AWS IoT Core for device connectivity, AWS SNS for SMS & Email alerts, and a user management system for secure access.
@@ -45,7 +45,8 @@ npm run dev
 
 Deploy Infrastructure
 cd infrastructure
-# Example if using AWS CDK
+
+Example if using AWS CDK
 cdk deploy
 
 📡 Example Use Case
