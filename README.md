@@ -1,7 +1,7 @@
 
 # IoT Dashboard with AWS Integration🌐 
 
-![Uploading schematic diagram.png…]()
+<img width="2000" height="2000" alt="schematic diagram" src="https://github.com/user-attachments/assets/c3686887-0a9d-460d-b3da-58a1a15f32f0" />
 
 📌 Overview
 
