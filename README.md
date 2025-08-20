@@ -1,4 +1,8 @@
+
 # IoT Dashboard with AWS Integration🌐 
+
+![Uploading schematic diagram.png…]()
+
 📌 Overview
 
 This project is a real-time IoT monitoring dashboard integrated with AWS IoT Core for device connectivity, AWS SNS for SMS & Email alerts, and a user management system for secure access.
